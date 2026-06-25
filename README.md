@@ -1,5 +1,16 @@
+
 # AC2---2-tri-flutter
 Avaliação continua de flutter do 2º trimestre
+
+---
+feito por:
+
+* Pedro H. Pachu
+* Melissa 
+* Nicolas
+
+---
+
 
 sei que vc já sabe alex mas vou fazer o tutorial para ficar mais bonito
 
